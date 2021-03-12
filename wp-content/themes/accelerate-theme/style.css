@@ -708,3 +708,20 @@ a.button, a.button:link {
 		display: inline;
 	}
 }
+
+/* Case Studies */
+
+aside.case-study-sidebar {
+	float: left;
+	width: 300px;
+}
+aside h4 {
+	color: #535353;
+}
+aside span {
+	font-weight: normal;
+}
+div.case-study-images {
+	float: left;
+	width: 600px;
+}
